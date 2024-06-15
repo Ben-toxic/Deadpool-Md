@@ -240,7 +240,7 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
+        title : `DR BEN 𝗕𝗨𝗚`,
         body : `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -251,8 +251,8 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿⧉⸙⫺`,
-        body : `⧉⸙FRANK⸙⧉⸙⫺`,
+        title : `DR BEN-𝙈𝘿⧉⸙⫺`,
+        body : `⧉⸙DR BEN⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -262,8 +262,8 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺`,
-        body : `⧉⸙CONFRONTER⧉`,
+        title : `⫹⸙⧉DR BEN⧉⸙⫺`,
+        body : `⧉⸙DR BEN⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -326,8 +326,8 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` 💀𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚 𝗖𝗢𝗠𝗠𝗔𝗡𝗗💀
-   📌𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝚋𝚢 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁📌
+` 💀DR BEN MD 𝗕𝗨𝗚 𝗖𝗢𝗠𝗠𝗔𝗡𝗗💀
+   📌𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝚋𝚢 BEN📌
 ✝️𝗔𝗱𝗱 𝗔𝗰𝗰𝗲𝘀☆☆
  💀𝐚𝐝𝐝𝐩𝐫𝐞𝐦 (628xx/@𝐭𝐚𝐠)
  💀𝐝𝐞𝐥𝐩𝐫𝐞𝐦𝐢𝐮𝐦 (628𝐱𝐱/@𝐭𝐚𝐠)
@@ -370,7 +370,7 @@ var hawemod = [
  🖋++schedule 62852X
  🖋scheduleobject 62852X
  🖋eatmydickk 62852X
-   💜𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._💜
+   💜𝐁𝐘 BEN._💜
 
 🕸❴ 𝑩𝑼𝑮 + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵
  🐝𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 62852𝑿
@@ -382,7 +382,7 @@ var hawemod = [
  🐝𝒙𝒔𝒊𝒔𝒕𝒆𝒎 628𝒆 62852𝑿
  🐝𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 62852𝑿
  🐝𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 62852𝑿
-     𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._
+     𝐁𝐘 BEN._
 🕸❴ 𝑩𝑼𝑮 𝑮𝑹𝑶𝑼𝑷 ❵
  🦅𝒖𝒏𝒍𝒊𝒅𝒆𝒍𝒂𝒚𝒈𝒄 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
  🦅𝒙𝒈𝒓𝒐𝒖𝒑 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
@@ -397,7 +397,7 @@ var hawemod = [
  🦅𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒘 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
  🦅𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒛 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
  🦅𝒈𝒂𝒔𝒇𝒖𝒍𝒍𝒈𝒄 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
-    ❴𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇 ®2024
+    ❴DR BEN ®2024
 🕸❴ 𝑺𝑬𝑵𝑫 𝑩𝑼𝑮 𝑫𝑰𝑹𝑬𝑪𝑻 ❵
  🍁𝒈𝒆𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒃𝒖𝒈
  🍁𝒅𝒊𝒓𝒆𝒄𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏
@@ -414,7 +414,7 @@ var hawemod = [
  🍁30𝒄𝒂𝒍𝒍
  🍁𝒗𝒊𝒓𝒑𝒆𝒏
  🍁𝒄𝒂𝒍𝒍𝒅𝒆𝒍𝒂𝒚
-  ❏𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇 ®2024
+  ❏DR BEN MD ®2024
 🌞 ❴ 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 ❵
 
 🌞❴ 𝑫𝑰𝑺𝑻𝑼𝑹𝑩𝑨𝑵𝑪𝑬 ❵
@@ -450,7 +450,7 @@ var hawemod = [
  🌴𝐩𝐮𝐬𝐡𝐜𝐨𝐧𝐭𝐢𝐝 (𝐆𝐜 𝐋𝐢𝐧𝐤)
  🌴𝐩𝐮𝐬𝐡𝐤𝐨𝐧𝐭𝐚𝐤 𝐭𝐞𝐤𝐬 (𝐬𝐞𝐧𝐭 𝐭𝐨 𝐆𝐂)
 ✝️❴ GROUPMENU ❵
-          ❰ 𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇  💀❱
+          ❰ DR BEN MD  💀❱
  🧸𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖙𝖔𝖝𝖎𝖈 𝖔𝖓 / 𝖔𝖋𝖋
@@ -701,8 +701,8 @@ var hawemod = [
 🇰🇪asupan18
 🇰🇪asupan18
 🇰🇪asupan20   
-┃    ▓ ❰ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻®2024 ❱ ▓
-┗━━━━━━━━━Regards to @𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁━━━━━━━━━━━━━ `
+┃    ▓ ❰ DR BEN MD®2024 ❱ ▓
+┗━━━━━━━━━Regards to @BEN━━━━━━━━━━━━━ `
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@⫹𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⸙⫺.....'})//Pengalih isu
 
@@ -7084,7 +7084,7 @@ break
 case 'tagall': {
 if (!m.isGroup) return
 await loading()
-let teks = `══᪣⧠ *࿉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧠᪣══
+let teks = `══᪣⧠ *࿉ DR BEN⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🎲 @${mem.id.split('@')[0]}\n`
@@ -7516,14 +7516,14 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DEADPOOLIFIED*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DR BEN PINGING.!!!*' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟𝗜𝗙𝗜𝗘𝗗 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*DR BEN SPEED ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
@@ -7754,7 +7754,7 @@ break
 case 'sc': case 'script': case 'repo':
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/d35db1661c77f8ea9b429.jpg` }, caption: 
-`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙱𝚄𝙶 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 DR BEN 𝙱𝚄𝙶 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -7813,7 +7813,7 @@ const audiovn = "./Deadpool.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
+          title: "DR BEN 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
           body: "https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe",
           thumbnailUrl: "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
           sourceUrl: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
@@ -7900,8 +7900,8 @@ case 'autostatusview':
                 if (q === 'on') {
                     autoread_status = true
                     reply(`Successfully changed auto status/story view to ${q}`)
-                } else if (q === 'off') {
-                    autoread_status = false
+                } else if (q === 'on') {
+                    autoread_status = true
                     reply(`Successfully changed auto status/story view to ${q}`)
                 }
                 break
